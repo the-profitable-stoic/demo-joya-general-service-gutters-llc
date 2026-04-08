@@ -1,0 +1,560 @@
+{
+  "business": {
+    "name": "Joya General Service Gutters LLC",
+    "phone": "+17863021221",
+    "category": "gutter company",
+    "city": "Miami",
+    "state": "FL"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Miami's Gutter Experts",
+      "heroSubline": "Protecting homes and businesses from South Florida's harsh weather. Unmatched quality and service, guaranteed.",
+      "aboutTitle": "Protecting Miami Homes, One Gutter at a Time",
+      "aboutText": [
+        "Joya General Service Gutters LLC started with a simple mission: to provide Miami-Dade County with reliable gutter solutions. We're a family-owned and operated business, born and raised in the heart of Little Havana, with deep roots in this community.",
+        "Our approach is straightforward: honest assessments, durable materials, and expert craftsmanship. We don't cut corners, and we stand behind every project, ensuring your gutters can withstand Miami's intense sun, heavy rains, and hurricane-force winds.",
+        "We're committed to giving back to the community that has supported us. We actively participate in local initiatives, donating a portion of our profits to organizations that help families rebuild after storms and improve neighborhood infrastructure."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Miami's unique climate challenges and building codes."
+        },
+        {
+          "title": "Durable Materials",
+          "description": "We use high-quality aluminum and copper designed to withstand salt air and intense sun."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our experienced team ensures precise installation for optimal performance."
+        },
+        {
+          "title": "Guaranteed Satisfaction",
+          "description": "We're not happy until you are. We stand behind our work with a comprehensive warranty."
+        }
+      ],
+      "ctaHeadline": "Get a Free Gutter Inspection Today!",
+      "ctaSubline": "Protect your home from water damage. Contact us for a no-obligation quote."
+    },
+    "services": [
+      {
+        "slug": "gutter-installation",
+        "name": "Gutter Installation",
+        "shortDescription": "Expert gutter installation tailored for Miami's unique homes and weather.",
+        "description": "Proper gutter installation is critical in Miami, where heavy rainfall and hurricane threats are a reality. We specialize in seamless aluminum and copper gutters, custom-fit to your home's specifications. Our experienced installers ensure proper pitch and secure mounting, preventing leaks and water damage. We handle everything from initial measurements and material selection to complete installation and cleanup. We take into account Miami-Dade County's stringent building codes and high wind requirements, guaranteeing your new gutters will withstand the elements for years to come.\n\nWe offer a variety of gutter styles and colors to complement your home's architecture, from classic half-round gutters to modern K-style options. Our team will work with you to determine the best solution for your needs and budget. We use only the highest quality materials, designed to resist corrosion from salt air and fading from the intense South Florida sun. We will also inspect your soffit and fascia to make sure they are in good condition to support the new gutters.\n\nDon't let faulty gutters compromise your home's foundation and structural integrity. Trust Joya General Service Gutters LLC for reliable and professional gutter installation services. Contact us today for a free estimate.",
+        "process": [
+          "Step 1: On-site assessment and precise measurements.",
+          "Step 2: Material selection and custom gutter fabrication.",
+          "Step 3: Expert installation with secure mounting.",
+          "Step 4: Thorough cleanup and debris removal."
+        ],
+        "benefits": [
+          "Prevents water damage to your home's foundation.",
+          "Protects siding and landscaping from erosion.",
+          "Extends the life of your roof.",
+          "Increases property value."
+        ],
+        "faq": [
+          {
+            "question": "What type of gutters are best for Miami's climate?",
+            "answer": "Seamless aluminum gutters are a popular choice due to their durability, corrosion resistance, and affordability. Copper gutters offer superior longevity and aesthetic appeal but come at a higher cost."
+          },
+          {
+            "question": "How often should I clean my gutters?",
+            "answer": "In Miami, we recommend cleaning your gutters at least twice a year, especially after hurricane season and during the fall when leaves and debris accumulate."
+          },
+          {
+            "question": "Do you offer a warranty on your gutter installations?",
+            "answer": "Yes, we offer a comprehensive warranty on all our gutter installations, covering both materials and workmanship. Contact us for specific details."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-repair",
+        "name": "Gutter Repair",
+        "shortDescription": "Fast, reliable gutter repairs to fix leaks, sagging, and storm damage.",
+        "description": "Miami's harsh weather can take a toll on your gutters, leading to leaks, sagging, and even complete detachment. Joya General Service Gutters LLC provides prompt and efficient gutter repair services to address these issues and prevent further damage to your home. Our experienced technicians can handle any repair, from patching small leaks and replacing damaged sections to re-securing gutters that have pulled away from the fascia.\n\nWe understand the urgency of gutter repairs, especially during hurricane season. That's why we offer emergency repair services to address critical issues quickly and effectively. We'll assess the damage, provide a clear explanation of the necessary repairs, and complete the work with minimal disruption to your daily life. We will also inspect your downspouts and make sure they are draining properly.\n\nDon't let minor gutter problems escalate into major headaches. Contact Joya General Service Gutters LLC for reliable gutter repair services. We'll restore your gutters to optimal condition, protecting your home from water damage and preserving its value.",
+        "process": [
+          "Step 1: Thorough inspection to identify the source of the problem.",
+          "Step 2: Detailed explanation of the necessary repairs and costs.",
+          "Step 3: Efficient and professional repair work using quality materials.",
+          "Step 4: Final inspection to ensure the repair is complete and effective."
+        ],
+        "benefits": [
+          "Prevents water damage from leaks and overflows.",
+          "Extends the lifespan of your existing gutters.",
+          "Saves money compared to full gutter replacement.",
+          "Restores proper drainage and protects your home's foundation."
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my gutters need repair?",
+            "answer": "Common signs include leaks, sagging, rust, overflowing during rain, and downspouts that are clogged or detached."
+          },
+          {
+            "question": "Can you repair gutters that have been damaged by a hurricane?",
+            "answer": "Yes, we have extensive experience repairing gutters damaged by hurricanes and other severe weather events. We can assess the damage and provide a comprehensive repair plan."
+          },
+          {
+            "question": "How long will the gutter repair take?",
+            "answer": "The duration of the repair depends on the extent of the damage. Simple repairs can often be completed in a few hours, while more complex repairs may take a day or two."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-cleaning",
+        "name": "Gutter Cleaning",
+        "shortDescription": "Professional gutter cleaning to remove debris and prevent clogs.",
+        "description": "Clogged gutters can cause a host of problems, from water damage to pest infestations. Joya General Service Gutters LLC offers professional gutter cleaning services to keep your gutters flowing freely and protect your Miami home. Our experienced technicians will remove leaves, debris, and other obstructions from your gutters and downspouts, ensuring proper drainage and preventing costly damage.\n\nWe use safe and effective methods to clean your gutters, including hand removal and high-powered blowers. We'll also inspect your gutters for any signs of damage or wear, alerting you to potential problems before they escalate. We can also install gutter guards to prevent future clogs and reduce the need for frequent cleaning.\n\nProtect your home from water damage and pest infestations with regular gutter cleaning from Joya General Service Gutters LLC. Contact us today to schedule your appointment.",
+        "process": [
+          "Step 1: Removal of all leaves, debris, and obstructions from gutters.",
+          "Step 2: Flushing of downspouts to ensure proper drainage.",
+          "Step 3: Inspection of gutters for damage or wear.",
+          "Step 4: Disposal of debris in an environmentally responsible manner."
+        ],
+        "benefits": [
+          "Prevents water damage to your home's foundation and siding.",
+          "Reduces the risk of pest infestations.",
+          "Extends the lifespan of your gutters.",
+          "Prevents ice dams during the rare Miami cold snaps."
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my gutters cleaned?",
+            "answer": "In Miami, we recommend cleaning your gutters at least twice a year, especially after hurricane season and during the fall."
+          },
+          {
+            "question": "Can you clean gutters on multi-story buildings?",
+            "answer": "Yes, we have the equipment and experience to safely clean gutters on buildings of all heights."
+          },
+          {
+            "question": "Do you offer gutter cleaning contracts?",
+            "answer": "Yes, we offer annual gutter cleaning contracts to provide you with worry-free maintenance. Contact us for details."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-guards",
+        "name": "Gutter Guard Installation",
+        "shortDescription": "Install gutter guards to prevent clogs and eliminate the need for frequent cleaning.",
+        "description": "Tired of constantly cleaning your gutters? Joya General Service Gutters LLC offers gutter guard installation services to protect your gutters from leaves, debris, and other obstructions. Gutter guards act as a barrier, allowing water to flow freely while keeping out unwanted materials. This eliminates the need for frequent cleaning and prevents costly water damage to your home.\n\nWe offer a variety of gutter guard options to suit your needs and budget, including mesh screens, foam inserts, and reverse curve systems. Our experienced technicians will help you choose the best solution for your home and install the guards with precision and care. We also handle the gutter cleaning before installation.\n\nInvest in gutter guards and enjoy the peace of mind knowing your gutters are protected year-round. Contact Joya General Service Gutters LLC today for a free consultation.",
+        "process": [
+          "Step 1: Assessment of your gutter system and debris accumulation.",
+          "Step 2: Selection of the appropriate gutter guard system.",
+          "Step 3: Professional installation of gutter guards.",
+          "Step 4: Debris removal and gutter cleaning."
+        ],
+        "benefits": [
+          "Eliminates the need for frequent gutter cleaning.",
+          "Prevents clogs and water damage.",
+          "Extends the lifespan of your gutters.",
+          "Saves time and money on maintenance."
+        ],
+        "faq": [
+          {
+            "question": "What are the different types of gutter guards?",
+            "answer": "Common types include mesh screens, foam inserts, reverse curve systems, and brush guards. Each type offers varying levels of protection and durability."
+          },
+          {
+            "question": "How much do gutter guards cost?",
+            "answer": "The cost of gutter guards depends on the type of system and the size of your home. Contact us for a free estimate."
+          },
+          {
+            "question": "Will gutter guards completely eliminate the need for cleaning?",
+            "answer": "While gutter guards significantly reduce the need for cleaning, some occasional maintenance may still be required to remove fine debris or buildup."
+          }
+        ]
+      },
+      {
+        "slug": "soffit-fascia-repair",
+        "name": "Soffit & Fascia Repair",
+        "shortDescription": "Protect your roof and home with expert soffit and fascia repair services.",
+        "description": "Your soffit and fascia play a crucial role in protecting your roof and home from the elements. The soffit provides ventilation to prevent moisture buildup, while the fascia supports the gutters and protects the roof edge. Damaged or deteriorated soffit and fascia can lead to water damage, pest infestations, and structural problems. Joya General Service Gutters LLC offers expert soffit and fascia repair services to keep your home in top condition.\n\nOur experienced technicians can repair or replace damaged soffit and fascia using durable materials that withstand Miami's harsh climate. We'll also inspect your roof for any signs of damage or wear, alerting you to potential problems before they escalate. We address wood rot, insect damage, and storm damage.\n\nProtect your roof and home with reliable soffit and fascia repair services from Joya General Service Gutters LLC. Contact us today for a free inspection.",
+        "process": [
+          "Step 1: Thorough inspection of soffit and fascia for damage or deterioration.",
+          "Step 2: Removal of damaged or rotten materials.",
+          "Step 3: Installation of new soffit and fascia using durable materials.",
+          "Step 4: Sealing and painting to protect against the elements."
+        ],
+        "benefits": [
+          "Prevents water damage to your roof and home.",
+          "Reduces the risk of pest infestations.",
+          "Improves ventilation and prevents moisture buildup.",
+          "Enhances the appearance of your home."
+        ],
+        "faq": [
+          {
+            "question": "What are the signs of damaged soffit and fascia?",
+            "answer": "Common signs include rotting wood, peeling paint, insect damage, and water stains."
+          },
+          {
+            "question": "What materials are used for soffit and fascia?",
+            "answer": "Common materials include wood, vinyl, and aluminum. We recommend using durable materials that can withstand Miami's climate."
+          },
+          {
+            "question": "How much does soffit and fascia repair cost?",
+            "answer": "The cost of repair depends on the extent of the damage and the materials used. Contact us for a free estimate."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-gutters",
+        "name": "Commercial Gutter Services",
+        "shortDescription": "Comprehensive gutter solutions for Miami businesses and commercial properties.",
+        "description": "Joya General Service Gutters LLC provides comprehensive gutter services for commercial properties in Miami, FL. We understand the unique needs of businesses and offer customized solutions to protect your building from water damage. From installation and repair to cleaning and maintenance, we've got you covered.\n\nOur experienced team can handle projects of any size, from small retail shops to large industrial complexes. We use durable materials and expert installation techniques to ensure your gutters can withstand Miami's harsh weather and heavy rainfall. We also offer emergency repair services to address critical issues quickly and effectively.\n\nProtect your commercial property with reliable gutter services from Joya General Service Gutters LLC. Contact us today for a free consultation.",
+        "process": [
+          "Step 1: On-site assessment of your commercial property's gutter needs.",
+          "Step 2: Customized gutter solutions tailored to your building's specifications.",
+          "Step 3: Professional installation or repair services.",
+          "Step 4: Ongoing maintenance and support."
+        ],
+        "benefits": [
+          "Protects your commercial property from water damage.",
+          "Extends the lifespan of your building's roof and foundation.",
+          "Reduces the risk of costly repairs.",
+          "Maintains a professional appearance."
+        ],
+        "faq": [
+          {
+            "question": "Do you offer commercial gutter cleaning services?",
+            "answer": "Yes, we offer regular gutter cleaning services to keep your commercial property's gutters free of debris and functioning properly."
+          },
+          {
+            "question": "What types of commercial gutters do you install?",
+            "answer": "We install a variety of commercial gutter systems, including box gutters, half-round gutters, and custom-fabricated gutters."
+          },
+          {
+            "question": "Do you offer emergency gutter repair services for commercial properties?",
+            "answer": "Yes, we offer 24/7 emergency gutter repair services to address critical issues and prevent further damage to your building."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Fort Lauderdale",
+        "slug": "fort-lauderdale-fl",
+        "state": "FL",
+        "content": "Joya General Service Gutters LLC is proud to serve Fort Lauderdale, Florida, providing top-quality gutter services to protect your home from the elements. Fort Lauderdale's unique waterfront properties, often built in the 1960s and 70s, require specialized gutter solutions to manage the heavy rainfall and humidity common in South Florida. We understand the specific needs of these homes and offer a range of gutter options to ensure optimal performance and longevity.\n\nOur experienced team is equipped to handle all your gutter needs in Fort Lauderdale, from installation and repair to cleaning and maintenance. We use only the highest quality materials and employ proven techniques to deliver lasting results. We're committed to providing exceptional customer service and ensuring your complete satisfaction.",
+        "localContext": "Fort Lauderdale's older waterfront homes require regular gutter maintenance to prevent water damage from year-round humidity and frequent storms.",
+        "nearbyAreas": [
+          "Pompano Beach",
+          "Wilton Manors",
+          "Oakland Park"
+        ]
+      },
+      {
+        "city": "Coral Springs",
+        "slug": "coral-springs-fl",
+        "state": "FL",
+        "content": "Joya General Service Gutters LLC offers comprehensive gutter services to the residents of Coral Springs, Florida. As a planned community developed in the 1980s and 90s, Coral Springs features a variety of home styles, each requiring a tailored gutter solution to effectively manage rainwater runoff. We have the expertise to assess your home's specific needs and recommend the best gutter system for optimal protection.\n\nWe understand the importance of maintaining the value and appearance of your Coral Springs home. Our gutter services are designed to not only protect your property from water damage but also enhance its curb appeal. From seamless aluminum gutters to copper and specialty options, we offer a wide selection to complement your home's architecture.",
+        "localContext": "Coral Springs homes, built primarily in the 1980s and 90s, benefit from modern gutter systems that efficiently handle frequent rainfall.",
+        "nearbyAreas": [
+          "Parkland",
+          "Coconut Creek",
+          "Margate"
+        ]
+      },
+      {
+        "city": "Pembroke Pines",
+        "slug": "pembroke-pines-fl",
+        "state": "FL",
+        "content": "Joya General Service Gutters LLC is dedicated to providing reliable and affordable gutter services to homeowners in Pembroke Pines, Florida. Known for its planned developments constructed in the 1990s, Pembroke Pines features a diverse range of housing styles that require effective gutter systems to protect against the region's heavy rainfall and humidity.\n\nWe offer a full spectrum of gutter services in Pembroke Pines, including installation, repair, cleaning, and maintenance. Our team is committed to delivering exceptional workmanship and customer satisfaction. We use only premium materials and proven techniques to ensure that your gutters perform optimally for years to come.",
+        "localContext": "Pembroke Pines' planned developments from the 1990s require well-maintained gutters to prevent water damage from the area's humid climate.",
+        "nearbyAreas": [
+          "Miramar",
+          "Hollywood",
+          "Cooper City"
+        ]
+      },
+      {
+        "city": "Boca Raton",
+        "slug": "boca-raton-fl",
+        "state": "FL",
+        "content": "Joya General Service Gutters LLC provides premium gutter services to the discerning homeowners of Boca Raton, Florida. Known for its luxury waterfront estates, Boca Raton demands high-quality gutter solutions to protect these valuable properties from the damaging effects of water. We specialize in providing elegant and effective gutter systems that complement the architectural style of your home.\n\nOur team is experienced in working with a variety of high-end materials, including copper and custom-designed gutters. We understand the importance of aesthetics and functionality, and we are committed to delivering exceptional results that enhance the beauty and value of your Boca Raton property. We offer gutter cleaning, repair and installation services.",
+        "localContext": "Boca Raton's luxury waterfront estates require high-end gutter systems to protect against water damage from frequent storms and proximity to the ocean.",
+        "nearbyAreas": [
+          "Delray Beach",
+          "Deerfield Beach",
+          "Highland Beach"
+        ]
+      },
+      {
+        "city": "West Palm Beach",
+        "slug": "west-palm-beach-fl",
+        "state": "FL",
+        "content": "Joya General Service Gutters LLC is proud to serve West Palm Beach, Florida, offering expert gutter services to protect your historic home. With a rich architectural heritage dating back to the 1920s and 50s, West Palm Beach requires specialized gutter solutions to preserve the integrity of these unique properties. We understand the nuances of older homes and offer customized gutter options to ensure proper water management.\n\nFrom seamless aluminum gutters to copper and specialized materials, we offer a wide selection to complement your home's architecture. Our experienced team is equipped to handle all your gutter needs in West Palm Beach, from installation and repair to cleaning and maintenance. We are committed to providing exceptional customer service and ensuring your complete satisfaction.",
+        "localContext": "West Palm Beach's historic homes from the 1920s-50s need careful gutter maintenance to prevent water damage and preserve their architectural integrity.",
+        "nearbyAreas": [
+          "Palm Beach",
+          "Lake Worth",
+          "Riviera Beach"
+        ]
+      },
+      {
+        "city": "Miami Gardens",
+        "slug": "miami-gardens-fl",
+        "state": "FL",
+        "content": "Joya General Service Gutters LLC is dedicated to serving the residents of Miami Gardens, Florida, providing reliable and affordable gutter solutions. Miami Gardens is a vibrant community with a diverse range of housing styles, each requiring effective gutter systems to protect against South Florida's heavy rainfall and humidity. We are committed to delivering exceptional workmanship and customer satisfaction.\n\nWe offer a full spectrum of gutter services in Miami Gardens, including installation, repair, cleaning, and maintenance. Our team uses premium materials and proven techniques to ensure your gutters perform optimally for years to come. We take pride in protecting your home from water damage and enhancing its curb appeal.",
+        "localContext": "Homes in Miami Gardens require robust gutter systems to effectively manage the region's heavy rainfall and humid climate.",
+        "nearbyAreas": [
+          "North Miami",
+          "Miramar",
+          "Pembroke Pines"
+        ]
+      },
+      {
+        "city": "Hollywood",
+        "slug": "hollywood-fl",
+        "state": "FL",
+        "content": "Joya General Service Gutters LLC is pleased to offer our expert gutter services to the residents of Hollywood, Florida. With a mix of older homes and newer developments, Hollywood presents a variety of gutter needs. We are equipped to handle any gutter project, from simple repairs to complete installations.\n\nWe understand the importance of protecting your home from water damage, and we are committed to providing high-quality gutter solutions that are both effective and affordable. Our team is experienced in working with a variety of gutter materials and styles, ensuring that we can find the perfect fit for your home.",
+        "localContext": "Hollywood's diverse housing stock requires customized gutter solutions to address the specific needs of each property.",
+        "nearbyAreas": [
+          "Hallandale Beach",
+          "Dania Beach",
+          "Pembroke Pines"
+        ]
+      },
+      {
+        "city": "Miramar",
+        "slug": "miramar-fl",
+        "state": "FL",
+        "content": "Joya General Service Gutters LLC provides top-notch gutter services to the residents of Miramar, Florida. As a rapidly growing city with a variety of housing styles, Miramar requires reliable gutter systems to protect homes from the frequent rainfall and humid conditions. We are dedicated to providing exceptional service and ensuring your complete satisfaction.\n\nOur team offers a comprehensive range of gutter services, including installation, repair, cleaning, and maintenance. We use only the highest quality materials and employ proven techniques to deliver lasting results. We pride ourselves on our commitment to customer service and our ability to meet the unique needs of each homeowner in Miramar.",
+        "localContext": "Miramar's growing community relies on effective gutter systems to prevent water damage and maintain property value.",
+        "nearbyAreas": [
+          "Pembroke Pines",
+          "Hollywood",
+          "Miami Gardens"
+        ]
+      },
+      {
+        "city": "Pompano Beach",
+        "slug": "pompano-beach-fl",
+        "state": "FL",
+        "content": "Joya General Service Gutters LLC is proud to serve the city of Pompano Beach, Florida. With its proximity to the ocean and frequent rainfall, Pompano Beach homes need reliable gutter systems to protect them from water damage. We offer a full range of gutter services, from installation to repair and cleaning.\n\nOur team is experienced in working with all types of gutter materials, including aluminum, copper, and vinyl. We can help you choose the best gutter system for your home and budget. We are committed to providing excellent customer service and ensuring that your gutters are working properly for years to come.",
+        "localContext": "Pompano Beach's coastal location necessitates durable gutter systems to withstand salt air and frequent storms.",
+        "nearbyAreas": [
+          "Lighthouse Point",
+          "Coconut Creek",
+          "Fort Lauderdale"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Gutter Installation",
+        "text": "Joya General Service Gutters installed new seamless aluminum gutters on my Coconut Grove home. The team was professional, efficient, and the gutters look fantastic! They even matched the gutter color to my house perfectly. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David R.",
+        "rating": 4,
+        "service": "Gutter Repair",
+        "text": "I had a leaky gutter after a recent storm, and Joya Gutters came out quickly to fix it. The technician was knowledgeable and explained the repair process clearly. The price was fair, and the leak is gone!",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Linda S.",
+        "rating": 5,
+        "service": "Gutter Cleaning",
+        "text": "Joya Gutters did an amazing job cleaning my gutters. They were completely clogged with leaves and debris, and they cleaned everything out thoroughly. My gutters are now flowing freely, and I feel much better prepared for the rainy season.",
+        "date": "2024-09-01"
+      },
+      {
+        "name": "Jose M.",
+        "rating": 5,
+        "service": "Gutter Guards",
+        "text": "I had Joya Gutters install gutter guards on my entire Brickell condo building. It was a large project, but they handled it efficiently and professionally. I would recommend them to other property managers.",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Patricia K.",
+        "rating": 4,
+        "service": "Soffit & Fascia Repair",
+        "text": "Joya Gutters repaired some damaged soffit on my house. They did a great job matching the existing paint and the repair looks seamless. I was very happy with their work.",
+        "date": "2024-12-05"
+      },
+      {
+        "name": "Robert L.",
+        "rating": 5,
+        "service": "Commercial Gutter Services",
+        "text": "We hired Joya Gutters to install new gutters on our Wynwood warehouse. They provided a competitive quote and completed the project on time and within budget. We are very satisfied with their service.",
+        "date": "2025-02-28"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Joya Gutters: Miami Gutter Experts",
+        "description": "Reliable gutter installation, repair & cleaning in Miami, FL. Protect your home from water damage. Free Estimates!"
+      },
+      "about": {
+        "title": "About Joya Gutters - Miami, FL",
+        "description": "Learn about Joya General Service Gutters LLC, your trusted local gutter company in Miami. Quality service, guaranteed."
+      },
+      "services": {
+        "title": "Miami Gutter Services | Installation & Repair",
+        "description": "Expert gutter services in Miami: installation, repair, cleaning, & gutter guards. Protect your home from South Florida weather."
+      },
+      "contact": {
+        "title": "Contact Joya Gutters - Miami, FL",
+        "description": "Contact Joya General Service Gutters LLC for a free estimate on your next gutter project in Miami. Call +17863021221 today!"
+      },
+      "reviews": {
+        "title": "Customer Reviews | Joya Gutters Miami",
+        "description": "Read what our satisfied customers are saying about Joya General Service Gutters LLC. See why we're Miami's preferred gutter company."
+      },
+      "service-areas": {
+        "title": "Joya Gutters Service Areas",
+        "description": "Joya Gutters provides professional gutter services in Miami and surrounding areas. Contact us for service in your area!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "gutter-installation": "/images/service-gutter-installation.webp",
+      "gutter-repair": "/images/service-gutter-repair.webp",
+      "gutter-cleaning": "/images/service-gutter-cleaning.webp",
+      "gutter-guards": "/images/service-gutter-guards.webp",
+      "soffit-fascia-repair": "/images/service-soffit-fascia-repair.webp",
+      "commercial-gutters": "/images/service-commercial-gutters.webp"
+    },
+    "servicesResponsive": {
+      "gutter-installation": {
+        "src": "/images/service-gutter-installation.webp",
+        "srcset": "/images/service-gutter-installation-400w.webp 400w, /images/service-gutter-installation-800w.webp 800w, /images/service-gutter-installation-1200w.webp 1200w, /images/service-gutter-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-repair": {
+        "src": "/images/service-gutter-repair.webp",
+        "srcset": "/images/service-gutter-repair-400w.webp 400w, /images/service-gutter-repair-800w.webp 800w, /images/service-gutter-repair-1200w.webp 1200w, /images/service-gutter-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-cleaning": {
+        "src": "/images/service-gutter-cleaning.webp",
+        "srcset": "/images/service-gutter-cleaning-400w.webp 400w, /images/service-gutter-cleaning-800w.webp 800w, /images/service-gutter-cleaning-1200w.webp 1200w, /images/service-gutter-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-guards": {
+        "src": "/images/service-gutter-guards.webp",
+        "srcset": "/images/service-gutter-guards-400w.webp 400w, /images/service-gutter-guards-800w.webp 800w, /images/service-gutter-guards-1200w.webp 1200w, /images/service-gutter-guards.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "soffit-fascia-repair": {
+        "src": "/images/service-soffit-fascia-repair.webp",
+        "srcset": "/images/service-soffit-fascia-repair-400w.webp 400w, /images/service-soffit-fascia-repair-800w.webp 800w, /images/service-soffit-fascia-repair-1200w.webp 1200w, /images/service-soffit-fascia-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-gutters": {
+        "src": "/images/service-commercial-gutters.webp",
+        "srcset": "/images/service-commercial-gutters-400w.webp 400w, /images/service-commercial-gutters-800w.webp 800w, /images/service-commercial-gutters-1200w.webp 1200w, /images/service-commercial-gutters.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}

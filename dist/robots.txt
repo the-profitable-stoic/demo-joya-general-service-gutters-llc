@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-joya-general-service-gutters-llc.dream-surge.com/sitemap-index.xml
